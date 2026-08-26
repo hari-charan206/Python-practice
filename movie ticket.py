@@ -1,6 +1,6 @@
 base_price =120
 age = int(input('Enter age:'))
-seat_type = 'Gold'
+seat_type = 'Premium'
 show_time = 'Evening'
 
 if age > 17:
