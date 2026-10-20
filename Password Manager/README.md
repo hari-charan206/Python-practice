@@ -65,5 +65,3 @@ Future Improvements
 * Store data in a file or database
 * Add password masking
 * Add login authentication
-
-##//
