@@ -20,7 +20,8 @@ def add_password():
 
 def view_passwords():
     print("\n--- Saved Passwords ---")
-
+    l=[]
+    #it is a list added for password to be listed
     if len(passwords) == 0:
         print("No passwords saved.")
         return
